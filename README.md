@@ -7,6 +7,7 @@ Analysis of Nike's financial performance using data extracted from 10-K annual r
 - Python
 - Pandas
 - Matplotlib
+- Scikit
 
 ## Analysis Performed
 - Financial statement analysis
