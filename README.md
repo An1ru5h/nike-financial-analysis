@@ -1,4 +1,4 @@
-# Nike Financial Data Analysis
+# Nike's Financial Performance Analysis
 
 ## Project Overview
 Analysis of Nike's financial performance using data extracted from 10-K annual reports to evaluate profitability, financial health, trends, and future scenarios.
